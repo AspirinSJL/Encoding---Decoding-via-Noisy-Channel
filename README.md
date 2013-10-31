@@ -1,6 +1,6 @@
 Encoding---Decoding-via-Noisy-Channel
 =====================================
-  This small project implements a Hamming code, positive-negative code and a combined one. 
+  This small project implements Hamming code, positive-negative code and a combined one. 
   To test performance of those error correcting codes, a binary symmetric channel is also implemented.
   
   
